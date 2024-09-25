@@ -1,0 +1,32 @@
+# **Introduction**
+
+Last Updated: 25/09/2024
+Version: 1.0
+
+Welcome to Special Operations!
+
+Special Operations are a type of flights that allow members to out missions and activities, using aircraft to complete specific tasks.
+
+# military airports XO
+
+| Callsign | Frequency | FRA | Name | Control area | 
+| YPED_MIL_TWR | 118.300 | AS3 | Edinburgh | RADIUS 10NM SFC - 1500 | 
+| YPED_MIL_APP | 122.600 | ADC | Edinburgh | RADIUS 100NM 1500-FL180 | 
+| YPTN_MIL_TWR | 119.700 | AS3 | Tindal | RADIUS 10NM SFC - 2500 |
+| YPTN_MIL_APP | 120.950 | ADC | Tindal | RADIUS 30NM 2500 – 10000 |
+| YWLM_MIL_TWR | 118.300 | AS2 | Williamtown | RADIUS 12NM SFC - 5000 | 
+| YWLM_MIL_APP | 135.700 | ADC | Williamtown | RADIUS 25NM 5000-FL125 | 
+| YSRI_MIL_TWR | 135.500 | AS3 | Richmond | RADIUS 10NM SFC-4500 | 
+| YSRI_MIL_APP | 135.900 | ADC | Richmond | 4500 – FL280 |
+| YAMB_MIL_TWR | 118.300 | AS3 | Amberley | RADIUS 10NM SFC-8000 |
+| YAMB_MIL_APP | 126.200 | ADC | Amberley | RADIUS 20NM 8000 – FL210 | 
+| YMES_MIL_TWR | 118.300 | AS2 | East Sale | RADIUS 10NM SFC - 3000 | 
+| YMES_MIL_APP | 123.300 | ADC | East Sale | RADIUS 50NM 3000-FL245 | 
+| YPEA_MIL_TWR | 118.300 | AS3 | Pearch | RADIUS 18NM SFC-1500 | 
+| YPEA _MIL_APP | 130.200 | ADC | Pearch | RADIUS 36NM 1500 – FL180 | 
+| NZWP_MIL_TWR | 134.500 | AS3 | Whenuapai | RADIUS 10NM SFC - 2500 | 
+| NZOH_MIL_TWR | 134.500 | AS3 | Ohakea | RADIUS 15NM SFC - 2500
+| NZOH_MIL_APP | 125.100 | ADC | Ohakea | RADIUS 25NM 2500 – FL200 | 
+| NZWB_MIL_TWR | 118.100 | AS3 | Woodbourne | RADIUS 10NM SFC - 2500 | 
+| NZWB_MIL_APP | 119.300 | ADC | Woodbourne | Woodbourne MCA Boundary 2500 – FL200 | 
+
