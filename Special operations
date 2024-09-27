@@ -23,7 +23,7 @@ Special Operations are a type of flights that allow members to out missions and 
 | YMES_MIL_TWR | 118.300 | AS2 | East Sale | RADIUS 10NM SFC - 3000 | 
 | YMES_MIL_APP | 123.300 | ADC | East Sale | RADIUS 50NM 3000-FL245 | 
 | YPEA_MIL_TWR | 118.300 | AS3 | Pearch | RADIUS 18NM SFC-1500 | 
-| YPEA _MIL_APP | 130.200 | ADC | Pearch | RADIUS 36NM 1500 – FL180 | 
+| YPEA_MIL_APP | 130.200 | ADC | Pearch | RADIUS 36NM 1500 – FL180 | 
 | NZWP_MIL_TWR | 134.500 | AS3 | Whenuapai | RADIUS 10NM SFC - 2500 | 
 | NZOH_MIL_TWR | 134.500 | AS3 | Ohakea | RADIUS 15NM SFC - 2500
 | NZOH_MIL_APP | 125.100 | ADC | Ohakea | RADIUS 25NM 2500 – FL200 | 
